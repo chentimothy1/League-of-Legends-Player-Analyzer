@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+html, body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	background-image: linear-gradient(to bottom right, #FF8300, #FFDC00 50%, #FFF311);
+	background-attachment: fixed;
+}
+
+
+footer{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+	background-image: linear-gradient(#9d95d0, #6b5fb9 25%, #483d8b);
+	text-align: center;
+	color: white;
+}
+
+h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-image: linear-gradient(#483d8b, #6b5fb9 75%, #9d95d0);
+	text-align: center;
+	color: white;
+}
+
+br{
+	margin:16px;
+}
+
+.format{
+	margin: 25px;
+}
+
+.hpformat{
+	text-align: center;
+	margin: 25px;
+}
+
+.font{
+	font-size: 12px;
+}
+
+.number{
+	text-align:center;
+}
+
